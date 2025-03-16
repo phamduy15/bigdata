@@ -9,7 +9,7 @@ Biểu đồ doanh số theo giờ
 Biểu đồ phân phối số lượng sản phẩm
 
 Rplot01
-![image](https://github.com/user-attachments/assets/f3db7432-55e6-485f-b264-0bd119f14b67)
+"C:\Users\84961\OneDrive\Hình ảnh\423181591-a2a9fa0d-0b85-4405-8d9d-2aa91d24aeba (1).png"
 
 🚩 Cài đặt thư viện cần thiết
 Để bắt đầu, bạn cần cài đặt các thư viện cần thiết
